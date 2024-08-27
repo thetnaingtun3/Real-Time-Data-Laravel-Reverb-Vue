@@ -67,12 +67,16 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Project Install
 
-composer install --ignore-platform-reqs 
+### Steps to run this project:
 
-yarn install 
+1. cd in `in the project`
 
-yarn run dev
+2. Run `composer install --ignore-platform-reqs` command
 
-php artisan server
+3. Run `yarn install` 
 
-php artisan reverb:start
+4. Run `yarn run dev` 
+
+5. Run `php artisan server` for background process
+
+6. Run `php artisan reverb:start` for background process
